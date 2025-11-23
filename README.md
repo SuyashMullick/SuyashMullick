@@ -46,7 +46,7 @@
     <td width="50%" valign="top">
 
 ### 🧠 Migraine Prediction & Assistance Platform  
-<a href="https://github.com/youni20/Neurawave-Hackathon-Submission"><b>🔗 View Repository</b></a>
+[🔗 View Repository](https://github.com/YOUR_REPO_LINK)
 
 Forecast migraine episodes within 24 hours using lifestyle, weather, and biometric data. Includes IoT devices and an AI doctor assistant.
 
@@ -57,11 +57,12 @@ Forecast migraine episodes within 24 hours using lifestyle, weather, and biometr
 - Heartbeat tracker  
 - Spotify recommender  
 
-</td>
-<td width="50%" valign="top">
+    </td>
+
+    <td width="50%" valign="top">
 
 ### 🗺️ C2B2 Symphony Raster Analytics Toolkit  
-<a href="https://github.com/SuyashMullick/layer-correlation-symphony"><b>🔗 View Repository</b></a>
+[🔗 View Repository](https://github.com/YOUR_REPO_LINK)
 
 Geospatial raster analytics for marine and environmental research with visualization, feature extraction, and ML integration.
 
@@ -72,7 +73,7 @@ Geospatial raster analytics for marine and environmental research with visualiza
 - Statistical analytics  
 - ML feature generation  
 
-</td>
+    </td>
   </tr>
 </table>
 
@@ -80,10 +81,10 @@ Geospatial raster analytics for marine and environmental research with visualiza
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
 
 ### 🔍 Industrial Surface Defect Detection  
-<a href="https://github.com/SuyashMullick/surface-defect-detection-ind"><b>🔗 View Repository</b></a>
+[🔗 View Repository](https://github.com/YOUR_REPO_LINK)
 
 Industrial surface anomaly detection using autoencoders, classical CV, and PaDiM.
 
@@ -94,10 +95,6 @@ Industrial surface anomaly detection using autoencoders, classical CV, and PaDiM
 - Category benchmarks  
 - ROC/AUC visualization  
 
-</td>
-<td width="50%" valign="top">
-
-<!-- Empty -->
-</td>
+    </td>
   </tr>
 </table>
