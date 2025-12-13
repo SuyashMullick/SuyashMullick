@@ -34,8 +34,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,sklearn,opencv,ros,docker,aws,linux,bash,raspberrypi,arduino" />
-  <img src="https://skillicons.dev/icons?i=java,ts,js,nodejs,html,css,flutter,git,fastapi,postgres,mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,opencv,sklearn,ros,docker,gcp,aws,linux,bash,raspberrypi,arduino" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,nodejs,html,css,git,fastapi,postgres,mysql,mongodb,sqlite" />
 </p>
 
 
