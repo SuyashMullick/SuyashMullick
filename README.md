@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Suyash+Mullick!;" />
 </h1>
 
-<h3 align="center">A machine learning and robotics engineer passionate about perception, autonomy, and deploying intelligent systems end-to-end.
+<h3 align="center">A perception and systems engineer passionate about computer vision, robotics, autonomy, and deploying intelligent systems end-to-end.
 </h3>
 
 <div align="center">
@@ -15,7 +15,7 @@
 - 🔭 I'm currently working on **applied ML research**, along with **robotics and ROS2-based perception projects**.
 - 🌱 I’m currently learning **sensor fusion, advanced robotics frameworks, and research-grade ML methods for autonomy.**
 - 🧑‍🤝‍🧑 I'm looking to collaborate on **research or projects in ML, computer vision, and perception**, especially involving perception or autonomy.
-- 💬 Ask me about **ML, Computer vision, perception... or anything else [here](https://github.com/SuyashMullick/SuyashMullick/issues)**
+- 💬 Ask me about **ML, perception, systems... or anything else [here](https://github.com/SuyashMullick/SuyashMullick/issues)**
 
 <br>
 
