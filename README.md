@@ -14,8 +14,8 @@
 
 - 🔭 I'm currently working on **applied ML research**, along with **robotics and ROS2-based perception projects**.
 - 🌱 I’m currently learning **sensor fusion, advanced robotics frameworks, and research-grade ML methods for autonomy.**
-- 🧑‍🤝‍🧑 I'm looking to collaborate on **research or projects in ML, computer vision, and robotics**, especially involving perception or autonomy.
-- 💬 Ask me about **ML, Computer vision, robotics... or anything else [here](https://github.com/SuyashMullick/SuyashMullick/issues)**
+- 🧑‍🤝‍🧑 I'm looking to collaborate on **research or projects in ML, computer vision, and perception**, especially involving perception or autonomy.
+- 💬 Ask me about **ML, Computer vision, perception... or anything else [here](https://github.com/SuyashMullick/SuyashMullick/issues)**
 
 <br>
 
