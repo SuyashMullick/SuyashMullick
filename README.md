@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Suyash+Mullick!;" />
 </h1>
 
-<h3 align="center">A perception and systems engineer passionate about computer vision, robotics, autonomy, and deploying intelligent systems end-to-end.
+<h3 align="center">A systems-oriented autonomy engineer at the intersection of embedded software, sensor fusion, and intelligent decision systems focused on deploying algorithms in constrained, real-world platforms.
 </h3>
 
 <div align="center">
@@ -12,10 +12,10 @@
 </div>
 
 
-- 🔭 I'm currently working on **applied ML research**, along with **robotics and ROS2-based perception projects**.
-- 🌱 I’m currently learning **sensor fusion, advanced robotics frameworks, and research-grade ML methods for autonomy.**
-- 🧑‍🤝‍🧑 I'm looking to collaborate on **research or projects in ML, computer vision, and perception**, especially involving perception or autonomy.
-- 💬 Ask me about **ML, perception, systems... or anything else [here](https://github.com/SuyashMullick/SuyashMullick/issues)**
+- 🔭 I'm currently working on **autonomy and perception systems**, including **embedded C++ components, sensor integration, and validation pipelines** for real-world platforms.
+- 🌱 I'm deepening skills in **sensor fusion, real-time systems, embedded Linux, and system-level verification** for safety- and mission-critical applications.
+- 🧑‍🤝‍🧑 I'm looking to collaborate on **autonomy, embedded systems, sensor processing, simulation, and system-level engineering** projects.
+- 💬 Ask me about **autonomous systems, sensor fusion, ROS2, simulation... or anything else [here](https://github.com/SuyashMullick/SuyashMullick/issues)**
 
 <br>
 
